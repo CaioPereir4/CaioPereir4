@@ -2,7 +2,6 @@
 ![MasterHead](https://philna.sh/assets/posts/react-738ca5dd60ecf11214419e9d6c847d1e2e4ad88c3f147e12d8adfd25b76e6e66.gif)
 <h1 align="center">Hi 👋, I'm Caio Pereira</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil.</h3>
-<img align="right" width="400" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png"></img>
 
 - 🔭 I’m currently working on **Angular or Spring Boot projects**
 
