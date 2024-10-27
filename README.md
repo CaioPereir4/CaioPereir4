@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Angular and Spring Boot projects**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Front-End or Back-End projects**
 
